@@ -1,0 +1,11 @@
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\bin\Debug\netcoreapp2.2\csharp.deps.json
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\bin\Debug\netcoreapp2.2\csharp.runtimeconfig.json
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\bin\Debug\netcoreapp2.2\csharp.runtimeconfig.dev.json
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\bin\Debug\netcoreapp2.2\csharp.dll
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\bin\Debug\netcoreapp2.2\csharp.pdb
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\obj\Debug\netcoreapp2.2\csharp.csprojAssemblyReference.cache
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\obj\Debug\netcoreapp2.2\csharp.csproj.CoreCompileInputs.cache
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\obj\Debug\netcoreapp2.2\csharp.AssemblyInfoInputs.cache
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\obj\Debug\netcoreapp2.2\csharp.AssemblyInfo.cs
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\obj\Debug\netcoreapp2.2\csharp.dll
+C:\Users\Jordf\OneDrive\Documents\coding\thereturn\csharp\obj\Debug\netcoreapp2.2\csharp.pdb
